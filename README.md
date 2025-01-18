@@ -17,11 +17,11 @@ Boxing Timer v1 is a Flutter-based application designed to help boxers, fitness 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/boxing_timer_v1.git
+   git clone https://github.com/RRAS46/Boxing_Timer.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd boxing_timer_v1
+   cd Boxing_Timer
    ```
 3. Install dependencies:
    ```bash
@@ -73,10 +73,5 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For questions, suggestions, or feedback, feel free to open an issue or reach out via email at `youremail@example.com`.
-
----
-
-Train smarter, hit harder with **Boxing Timer v1**! 🥊
+Train smarter, hit harder with **Boxing Timer**! 🥊
