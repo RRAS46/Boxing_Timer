@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ______________General______________ -->
+    <!-- Show Dialog colors -->
+    <color name="colorShowDialogBackgroundLight">#FFFFFF</color>
+    <color name="colorShowDialogBackgroundDark">#000000</color>
+    <color name="colorShowDialogTextLight">#000000</color>
+    <color name="colorShowDialogTextDark">#FFFFFF</color>
+
+
+    <!-- ______________Setup Screen______________ -->
+
+    <!-- Menu Button colors -->
+    <color name="colorSetupScreenMenuButtonBackgroundLight">#4DFFFFFF</color>
+    <color name="colorSetupScreenMenuButtonBackgroundDark">#4D000000</color>
+    <color name="colorSetupScreenMenuButtonIconLight">#61000000</color>
+    <color name="colorSetupScreenMenuButtonIconDark">#61FFFFFF</color>
+
+    <!-- Card text colors -->
+    <color name="colorSetupScreenCardTextLight">#FFFFFF</color>
+    <color name="colorSetupScreenCardTextDark">#000000</color>
+
+    <!-- Start colors -->
+    <color name="colorSetupScreenStartButtonBackgroundLight">#8A000000</color>
+    <color name="colorSetupScreenStartButtonBackgroundDark">#8AFFFFFF</color>
+    <color name="colorSetupScreenStartButtonTextLight">#FFFFFF</color>
+    <color name="colorSetupScreenStartButtonTextDark">#070707</color>
+
+    <!-- Divider colors -->
+    <color name="colorSetupScreenDividerLight">#FFFFFF</color>
+    <color name="colorSetupScreenDividerDark">#070707</color>
+
+    <!-- Draggable Sheet colors -->
+    <color name="colorSetupScreenDraggableSheetBackgroundLight">#FFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetBackgroundDark">#070707</color>
+    <color name="colorSetupScreenDraggableSheetTitleTextLight">#000000</color>
+    <color name="colorSetupScreenDraggableSheetTitleTextDark">#FFFFFF</color>
+
+    <color name="colorSetupScreenDraggableSheetCategoryBackgroundLight">#4D000000</color>
+    <color name="colorSetupScreenDraggableSheetCategoryBackgroundDark">#4DFFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetCategoryTextLight">#FF2196F3</color>
+    <color name="colorSetupScreenDraggableSheetCategoryTextDark">#041F35</color>
+
+    <color name="colorSetupScreenDraggableSheetLevelBackgroundLight">#1A000000</color>
+    <color name="colorSetupScreenDraggableSheetLevelBackgroundDark">#1AFFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetLevelTextLight">#000000</color>
+    <color name="colorSetupScreenDraggableSheetLevelTextDark">#FFFFFF</color>
+
+    <color name="colorSetupScreenDraggableSheetProgramBackgroundLight">#B32196F3</color>
+    <color name="colorSetupScreenDraggableSheetProgramBackgroundDark">#B3042137</color>
+    <color name="colorSetupScreenDraggableSheetProgramTextLight">#FFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetProgramTextDark">#000000</color>
+
+    <color name="colorSetupScreenDraggableSheetAddButtonBackgroundLight">#99000000</color>
+    <color name="colorSetupScreenDraggableSheetAddButtonBackgroundDark">#99FFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetAddButtonTextLight">#FFFFFF</color>
+    <color name="colorSetupScreenDraggableSheetAddButtonTextDark">#000000</color>
+    <color name="colorSetupScreenDraggableSheetAddButtonIconLight">#FF4CAF50</color>
+    <color name="colorSetupScreenDraggableSheetAddButtonIconDark">#1B371D</color>
+
+
+
+    <!-- ______________Profile View Screen______________ -->
+    <color name="colorProfileScreenBackgroundLight">#FFFFFF</color>
+    <color name="colorProfileScreenBackgroundDark">#000000</color>
+
+
+    <color name="colorProfileScreenDividerLight">#000000</color>
+    <color name="colorProfileScreenDividerDark">#FFFFFF</color>
+
+
+    <!-- Back Button colors -->
+    <color name="colorProfileScreenBackButtonBackgroundLight">#14000000</color>
+    <color name="colorProfileScreenBackButtonBackgroundDark">#14FFFFFF</color>
+    <color name="colorProfileScreenBackButtonIconLight">#61000000</color>
+    <color name="colorProfileScreenBackButtonIconDark">#61FFFFFF</color>
+
+    <!-- Title colors -->
+    <color name="colorProfileScreenTitleLight">#8C393535</color>
+    <color name="colorProfileScreenTitleDark">#8CF4F4F4</color>
+
+    <!-- Card colors -->
+    <color name="colorProfileScreenProfileCardBackgroundLight">#000000</color>
+    <color name="colorProfileScreenProfileCardBackgroundDark">#FFFFFF</color>
+    <color name="colorProfileScreenProfileCardCircleAvatarBackgroundLight">#FF2196F3</color>
+    <color name="colorProfileScreenProfileCardCircleAvatarBackgroundDark">#8CBCE3</color>
+    <color name="colorProfileScreenProfileCardCircleAvatarIconLight">#FFFFFF</color>
+    <color name="colorProfileScreenProfileCardCircleAvatarIconDark">#000000</color>
+    <color name="colorProfileScreenProfileCardDividerLight">#DF1A245A</color>
+    <color name="colorProfileScreenProfileCardDividerDark">#ED18D9F3</color>
+    <color name="colorProfileScreenProfileCardMainTextLight">#FFFFFF</color>
+    <color name="colorProfileScreenProfileCardMainTextDark">#000000</color>
+    <color name="colorProfileScreenProfileCardSubTextLight">#BABABA</color>
+    <color name="colorProfileScreenProfileCardSubTextDark">#303030</color>
+
+    <!-- Settings Card colors -->
+    <color name="colorProfileScreenSettingsCardBackgroundLight">#FFFFFF</color>
+    <color name="colorProfileScreenSettingsCardBackgroundDark">#000000</color>
+    <color name="colorProfileScreenSettingsCardMainTextLight">#000000</color>
+    <color name="colorProfileScreenSettingsCardMainTextDark">#FFFFFF</color>
+
+
+
+    <!-- Delete Button colors -->
+    <color name="colorProfileScreenDeleteButtonBackgroundLight">#FB3C00</color> <!-- Boxing red for light theme buttons -->
+    <color name="colorProfileScreenDeleteButtonTextLight">#FFFFFF</color> <!-- White text on red buttons -->
+    <color name="colorProfileScreenDeleteButtonBackgroundDark">#A34354</color> <!-- Darker red for dark theme buttons -->
+    <color name="colorProfileScreenDeleteButtonTextDark">#000000</color> <!-- White text on dark buttons -->
+
+    <!-- Edit Button colors -->
+    <color name="colorProfileScreenEditButtonBackgroundLight">#3F51B5</color> <!-- Blue for light theme buttons -->
+    <color name="colorProfileScreenEditButtonTextLight">#FFFFFF</color> <!-- White text on blue buttons -->
+    <color name="colorProfileScreenEditButtonBackgroundDark">#00BCD4</color> <!-- Teal for dark theme buttons -->
+    <color name="colorProfileScreenEditButtonTextDark">#000000</color> <!-- Black text on teal buttons -->
+
+    <!-- Info Button colors -->
+    <color name="colorProfileScreenInfoButtonBackgroundLight">#80090909</color> <!-- Red for light theme buttons -->
+    <color name="colorProfileScreenInfoButtonTextLight">#FFFFFF</color> <!-- White text on red buttons -->
+    <color name="colorProfileScreenInfoButtonBackgroundDark">#80FFFFFF</color> <!-- White for dark theme buttons -->
+    <color name="colorProfileScreenInfoButtonTextDark">#000000</color> <!-- Black text on white buttons -->
+
+</resources>
